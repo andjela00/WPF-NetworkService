@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CG4_T7_G1_P2", "CG4_T7_G1_P2\CG4_T7_G1_P2.csproj", "{6E50BB98-01C1-40FD-8DFB-B07DE0053E0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeteringSimulator", "MeteringSimulator - T7\MeteringSimulator\MeteringSimulator.csproj", "{134D87AD-F428-469F-A98E-5F007EDD241B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E50BB98-01C1-40FD-8DFB-B07DE0053E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E50BB98-01C1-40FD-8DFB-B07DE0053E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E50BB98-01C1-40FD-8DFB-B07DE0053E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E50BB98-01C1-40FD-8DFB-B07DE0053E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{134D87AD-F428-469F-A98E-5F007EDD241B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{134D87AD-F428-469F-A98E-5F007EDD241B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{134D87AD-F428-469F-A98E-5F007EDD241B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{134D87AD-F428-469F-A98E-5F007EDD241B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAB9E99D-177D-4107-90A2-5BF042FD2E66}
+	EndGlobalSection
+EndGlobal

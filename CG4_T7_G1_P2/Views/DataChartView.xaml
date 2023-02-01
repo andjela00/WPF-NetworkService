@@ -1,0 +1,71 @@
+﻿<UserControl x:Class="CG4_T7_G1_P2.Views.DataChartView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CG4_T7_G1_P2.Views"
+      
+      xmlns:viewModel="clr-namespace:CG4_T7_G1_P2.ViewModel"
+      xmlns:vml="clr-namespace:CG4_T7_G1_P2.VML"
+      vml:ViewModelLocator.AutoHookedUpViewModel="True"
+      xmlns:data="clr-namespace:CG4_T7_G1_P2.Model"
+             
+      mc:Ignorable="d" 
+      d:DesignHeight="520" d:DesignWidth="750">
+
+    <UserControl.Resources>
+        <DataTemplate DataType="{x:Type data:MerniInstrument}">
+        </DataTemplate>
+    </UserControl.Resources>
+    <Grid Background="DarkSlateGray" Height="520" VerticalAlignment="Top">
+        <Grid  Height="50" Margin="10,10,10,448" >
+            <Label Content="U P D A T E R:" HorizontalAlignment="Center" FontSize="18" Foreground="White" FontWeight="ExtraBlack" VerticalAlignment="Center" Margin="36,10,81,11" />
+        </Grid>
+
+        <ComboBox HorizontalAlignment="Left" SelectedValuePath="Key" DisplayMemberPath="Value.Name"  Background="Gray" SelectedValue="{Binding SourceChoice}" ItemsSource="{Binding ComboBoxDataSource}" Margin="516,29,0,454" Width="161" />
+
+
+
+        <StackPanel Margin="146,0,0,10" Orientation="Horizontal" VerticalAlignment="Bottom" HorizontalAlignment="Left" Height="38" Width="550">
+            <TextBlock HorizontalAlignment="Left" Text="Time1" Foreground="White"/>
+            <TextBlock Text="Time2" Margin="50 0 0 0" Foreground="White" />
+            <TextBlock Text="Time3" Margin="50 0 0 0" Foreground="White"/>
+            <TextBlock Text="Time4" Margin="50 0 0 0" Foreground="White"/>
+            <TextBlock Text="Time5" Margin="50 0 0 0" Foreground="White"/>
+        </StackPanel>
+
+        <Canvas Width="495" Background="Transparent" HorizontalAlignment="Left" Margin="83,132,0,-10">
+
+            <Line X1="10" Y1="160" X2="335" Y2="160" Stroke="white" StrokeThickness="1" Canvas.Top="16" Canvas.Left="72" Height="136" Width="495"/>
+            <Line X1="10" Y1="240" X2="335" Y2="240" Stroke="White" StrokeThickness="1" Canvas.Top="-88" Canvas.Left="72" />
+
+            <Line X1="10" Y1="260" X2="340" Y2="260" Stroke="White" StrokeThickness="3" Canvas.Top="54" Width="495" Canvas.Left="72"/>
+            <Line X1="10" Y1="220" X2="340" Y2="220" Stroke="White" StrokeThickness="1" Width="495" Canvas.Left="72" Canvas.Top="-39"/>
+            <Line X1="10" Y1="180" X2="340" Y2="180" Stroke="White" StrokeThickness="1" Canvas.Left="72" Canvas.Top="-64"/>
+            <Line X1="10" Y1="140" X2="340" Y2="140" Stroke="White" StrokeThickness="1" Canvas.Left="72" Canvas.Top="140"/>
+            <Line X1="10" Y1="100" X2="340" Y2="100" Stroke="White" StrokeThickness="1" RenderTransformOrigin="0.479,0.51" Canvas.Left="72" Canvas.Top="146"/>
+            <Line X1="10" Y1="60" X2="340" Y2="60"   Stroke="White" StrokeThickness="1" Canvas.Top="-44" Canvas.Left="72"/>
+            <Line X1="10" Y1="60" X2="340" Y2="60"   Stroke="White" StrokeThickness="1" Canvas.Top="-11" Canvas.Left="72"/>
+            <Line X1="10" Y1="60" X2="340" Y2="60"   Stroke="White" StrokeThickness="1" Canvas.Top="16" Canvas.Left="72"/>
+            <Line X1="10" Y1="60" X2="340" Y2="60"   Stroke="White" StrokeThickness="1" Canvas.Top="157" Canvas.Left="72"/>
+
+
+            <Ellipse  Canvas.Left="56"  Canvas.Bottom="{Binding Source={x:Static viewModel:DataChartViewModel.ElementHeights}, Path=FirstBindingPoint}" Width ="40" Height="35" Fill="{Binding Source={x:Static viewModel:DataChartViewModel.ElementHeights}, Path=FirstBindingPoint2}" Style="{DynamicResource HideIfZero}"/>
+            <Label  FontSize="20" FontWeight="Bold" Canvas.Left="55" Foreground="Black" Canvas.Bottom="{Binding Source={x:Static viewModel:DataChartViewModel.ElementHeights}, Path=FirstBindingPoint}" Content="{Binding Source={x:Static viewModel:DataChartViewModel.ElementHeights}, Path=FirstBindingPoint}"/>
+
+            <Ellipse  Canvas.Left="142" Canvas.Bottom="{Binding Source={x:Static viewModel:DataChartViewModel.ElementHeights}, Path=SecondBindingPoint}" Width ="40" Height="35" Fill="{Binding Source={x:Static viewModel:DataChartViewModel.ElementHeights}, Path=SecondBindingPoint2}" Style="{DynamicResource HideIfZero}"/>
+            <Label  FontSize="20" Canvas.Left="140" FontWeight="Bold"  Canvas.Bottom="{Binding Source={x:Static viewModel:DataChartViewModel.ElementHeights}, Path=SecondBindingPoint}" Content="{Binding Source={x:Static viewModel:DataChartViewModel.ElementHeights}, Path=SecondBindingPoint}"  />
+
+            <Ellipse  Canvas.Left="222" Canvas.Bottom="{Binding Source={x:Static viewModel:DataChartViewModel.ElementHeights}, Path=ThirdBindingPoint}" Width ="40" Height="35" Fill="{Binding Source={x:Static viewModel:DataChartViewModel.ElementHeights}, Path=ThirdBindingPoint2}" Style="{DynamicResource HideIfZero}"/>
+            <Label  FontSize="20" FontWeight="Bold" Canvas.Left="224"  Canvas.Bottom="{Binding Source={x:Static viewModel:DataChartViewModel.ElementHeights}, Path=ThirdBindingPoint}" Content="{Binding Source={x:Static viewModel:DataChartViewModel.ElementHeights}, Path=ThirdBindingPoint}" />
+
+            <Ellipse  Canvas.Left="306" Canvas.Bottom="{Binding Source={x:Static viewModel:DataChartViewModel.ElementHeights}, Path=FourthBindingPoint}" Width ="40" Height="35" Fill="{Binding Source={x:Static viewModel:DataChartViewModel.ElementHeights}, Path=FourthBindingPoint2}" Style="{DynamicResource HideIfZero}"/>
+            <Label  FontSize="20" FontWeight="Bold" Canvas.Left="308"  Canvas.Bottom="{Binding Source={x:Static viewModel:DataChartViewModel.ElementHeights}, Path=FourthBindingPoint}" Content="{Binding Source={x:Static viewModel:DataChartViewModel.ElementHeights}, Path=FourthBindingPoint}" />
+
+            <Ellipse  Canvas.Left="385" Canvas.Bottom="{Binding Source={x:Static viewModel:DataChartViewModel.ElementHeights}, Path=FifthBindingPoint}" Width ="40" Height="35" Fill="{Binding Source={x:Static viewModel:DataChartViewModel.ElementHeights}, Path=FifthBindingPoint2}" Style="{DynamicResource HideIfZero}"/>
+            <Label  FontSize="20" FontWeight="Bold" Canvas.Left="388"  Canvas.Bottom="{Binding Source={x:Static viewModel:DataChartViewModel.ElementHeights}, Path=FifthBindingPoint}" Content="{Binding Source={x:Static viewModel:DataChartViewModel.ElementHeights}, Path=FifthBindingPoint}" />
+
+        </Canvas>
+
+    </Grid>
+</UserControl>

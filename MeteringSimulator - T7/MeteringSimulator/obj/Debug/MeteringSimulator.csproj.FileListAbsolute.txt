@@ -1,0 +1,46 @@
+C:\Users\Andjela\Desktop\ANDJIII\ANDJIII\Z2-HCI\Projekat2HCI\MeteringSimulator - T7\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Andjela\Desktop\ANDJIII\ANDJIII\Z2-HCI\Projekat2HCI\MeteringSimulator - T7\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Andjela\Desktop\ANDJIII\ANDJIII\Z2-HCI\Projekat2HCI\MeteringSimulator - T7\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Andjela\Desktop\ANDJIII\ANDJIII\Z2-HCI\Projekat2HCI\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Andjela\Desktop\ANDJIII\ANDJIII\Z2-HCI\Projekat2HCI\MeteringSimulator - T7\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Andjela\Desktop\ANDJIII\ANDJIII\Z2-HCI\Projekat2HCI\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Andjela\Desktop\ANDJIII\ANDJIII\Z2-HCI\Projekat2HCI\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Andjela\Desktop\ANDJIII\ANDJIII\Z2-HCI\Projekat2HCI\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Andjela\Desktop\ANDJIII\ANDJIII\Z2-HCI\Projekat2HCI\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Andjela\Desktop\ANDJIII\ANDJIII\Z2-HCI\Projekat2HCI\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Andjela\Desktop\ANDJIII\ANDJIII\Z2-HCI\Projekat2HCI\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Andjela\Desktop\ANDJIII\ANDJIII\Z2-HCI\Projekat2HCI\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Andjela\Desktop\ANDJIII\ANDJIII\Z2-HCI\Projekat2HCI\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Andjela\Desktop\ANDJIII\ANDJIII\Z2-HCI\Projekat2HCI\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\Andjela\Desktop\ANDJIII\ANDJIII\Z2-HCI\Projekat2HCI\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator.csprojAssemblyReference.cache
+C:\Users\Andjela\Desktop\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Andjela\Desktop\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Andjela\Desktop\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Andjela\Desktop\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Andjela\Desktop\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Andjela\Desktop\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Andjela\Desktop\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Andjela\Desktop\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Andjela\Desktop\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Andjela\Desktop\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Andjela\Desktop\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Andjela\Desktop\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Andjela\Desktop\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Andjela\Desktop\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\Andjela\Desktop\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator.csprojAssemblyReference.cache
+C:\Users\Andjela\Desktop\faks\HCI\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Andjela\Desktop\faks\HCI\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Andjela\Desktop\faks\HCI\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Andjela\Desktop\faks\HCI\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Andjela\Desktop\faks\HCI\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Andjela\Desktop\faks\HCI\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Andjela\Desktop\faks\HCI\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Andjela\Desktop\faks\HCI\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Andjela\Desktop\faks\HCI\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Andjela\Desktop\faks\HCI\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Andjela\Desktop\faks\HCI\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Andjela\Desktop\faks\HCI\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Andjela\Desktop\faks\HCI\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Andjela\Desktop\faks\HCI\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\Andjela\Desktop\faks\HCI\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\Andjela\Desktop\faks\HCI\hci- pz2\CG4_T7_G1_P2\MeteringSimulator - T7\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.SuggestedBindingRedirects.cache
